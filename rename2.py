@@ -1,5 +1,5 @@
 import os 
-# para criaer uma funçao em python, iremos utilizar o comando def(definição)
+# para criar uma funçao em python, iremos utilizar o comando def(definição)
 
 arquivo_original = input ("digite o nome do arquivo que será renomeado\n")
 novo_arquivo = input("Digite o novo nome do arquivo\n")
